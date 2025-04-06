@@ -22,10 +22,10 @@ I specialize in **Laravel + ReactJS/VueJS** stack and have successfully delivere
 
 ### 🧰 Tech Stack
 
-**Backend:** PHP, Laravel, MySQL, PostgreSQL, Java, NextJS
-**Frontend:** ReactJS, VueJS, HTML, CSS, JavaScript, Bootstrap, Tailwind, Shadcn
-**Tools:** Git, Trello, Postman, WebSocket, Redis, Figma, Linux Server, FTP
-**Other:** Payment APIs (Momo, VNPay), Real-time apps, Role-based access
+- **Backend:** PHP, Laravel, MySQL, PostgreSQL, Java, NextJS
+- **Frontend:** ReactJS, VueJS, HTML, CSS, JavaScript, Bootstrap, Tailwind, Shadcn
+- **Tools:** Git, Trello, Postman, WebSocket, Redis, Figma, Linux Server, FTP
+- **Other:** Payment APIs (Momo, VNPay), Real-time apps, Role-based access
 
 ---
 
